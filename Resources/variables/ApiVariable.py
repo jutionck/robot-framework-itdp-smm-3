@@ -1,0 +1,6 @@
+BASE_URL='http://159.65.140.190/'
+LOGIN='/login'
+VEHICLES='/vehicles'
+CUSTOMERS='/customers'
+EMPLOYEES='/employees'
+BRANDS='/brands'
